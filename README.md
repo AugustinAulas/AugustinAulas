@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AugustinAulas
+- 👋 Hi, I’m AugustinAulas
 - 👀 I’m interested in prog
 - 🌱 I’m currently learning prog
 - 💞️ I’m looking to collaborate on ...
